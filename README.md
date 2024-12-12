@@ -1,2 +1,4 @@
 # ashish-yadav
-this is my repository
+This is my git_hub repository
+Ashish Yadav
+
